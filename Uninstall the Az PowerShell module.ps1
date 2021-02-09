@@ -105,4 +105,4 @@ function Uninstall-AzModule {
 }
 
 
-Uninstall-AzModule -Name Az -Version 1.8.0
+Uninstall-AzModule -Name Az -Version 5.4.0
